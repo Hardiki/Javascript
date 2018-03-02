@@ -4,3 +4,7 @@ https://github.com/Hardiki/Javascript/blob/master/digitalclock.js
 https://github.com/Hardiki/Javascript/blob/master/index.html
 https://github.com/Hardiki/Javascript/blob/master/stylesheet.css
 
+Word count app:
+https://github.com/Hardiki/Javascript/blob/master/wordcount.css
+https://github.com/Hardiki/Javascript/blob/master/wordcount.html
+https://github.com/Hardiki/Javascript/blob/master/wordcount.js

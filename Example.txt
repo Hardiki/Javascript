@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html>
-<body>
+Digital calculate:
 
-<h2>My First JavaScript</h2>
+https://github.com/Hardiki/Javascript/blob/master/digitalclock.js
+https://github.com/Hardiki/Javascript/blob/master/index.html
+https://github.com/Hardiki/Javascript/blob/master/stylesheet.css
 
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-Click here to display Date and Time.</button>
-
-<p id="demo"></p>
-
-</body>
-</html> 
